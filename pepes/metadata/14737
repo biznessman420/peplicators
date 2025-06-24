@@ -1,0 +1,55 @@
+{
+  "name": "Pepe #14737",
+  "description": "The Peplicator!\r\nhttps://www.peplicator.fun/\r\nBy Matt Furie\r\n\r\nThe first generative NFT collection from the creator of Pepe The Frog\r\nEach NFT an original 1/1 Pepe\r\n\r\nBrought to you by Chain/Saw\r\nhttps://www.chainsaw.fun/",
+  "image": "ipfs://bafybeifbo3q7ihzv3ss35zqivee3bnz6smbbtxrcac4ppebg4w4kk5rfqa/14737.png",
+  "attributes": [
+    {
+      "trait_type": "Bg",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Frog",
+      "value": "Sad frog"
+    },
+    {
+      "trait_type": "Hats",
+      "value": "Umbrears"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored mouthed"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Fatface"
+    },
+    {
+      "trait_type": "Stuff",
+      "value": "Eggplant"
+    },
+    {
+      "trait_type": "Facial",
+      "value": "Face tat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Wooooooooo"
+    },
+    {
+      "trait_type": "Facial",
+      "value": "Frog worts"
+    },
+    {
+      "trait_type": "Stuff",
+      "value": "Big brain"
+    },
+    {
+      "trait_type": "Facial",
+      "value": "Soulpatch"
+    },
+    {
+      "trait_type": "Facial",
+      "value": "Red worm"
+    }
+  ]
+}
